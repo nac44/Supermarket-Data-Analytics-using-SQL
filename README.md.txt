@@ -1,0 +1,3 @@
+# Supermarket-Data-Analysis-using-SQL
+
+In this project, I employed MySQL to establish a relational database. I imported data and subsequently extracted various details to address diverse business inquiries. These inquiries encompassed identifying leading products according to the day of the week, pinpointing products based on location, understanding customers' typical shopping routes, and uncovering correlations in customer orders.
